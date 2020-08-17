@@ -1,0 +1,4 @@
+﻿  funkcje.cpp
+C:\Users\zawor\Desktop\Projekt PK\Lista zakupów\Lista zakupów\funkcje.cpp(94,6): warning C4101: "ilosc": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\zawor\Desktop\Projekt PK\Lista zakupów\Lista zakupów\funkcje.cpp(93,7): warning C4101: "produkt": lokalna zmienna, do której nie istnieje odwołanie
+  Lista zakupów.vcxproj -> C:\Users\zawor\Desktop\Projekt PK\Lista zakupów\Debug\Lista zakupów.exe

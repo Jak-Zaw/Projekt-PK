@@ -1,0 +1,9 @@
+1 chleb
+1 maslo
+2 pomidory
+1 sok
+0 0
+1 herbata
+2 mleka
+1 kakao
+0 0
